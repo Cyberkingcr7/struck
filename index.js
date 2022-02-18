@@ -1,5 +1,5 @@
 const qrcode = require('qrcode-terminal');
-const thumb = './assets/thumb.jpg
+const thumb = './assets/thumb.jpg'
 
 
 const { Client } = require('whatsapp-web.js');
